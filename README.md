@@ -1,6 +1,6 @@
 # 真相部落  有圖文 有音頻 有視頻 有真相<br>
 # 當前有效網址：<br>
-http://9.52.dnsdojo.com/<br>
+http://9.62.from-dc.com/<br>
 http://hs3.26.is-a-designer.com/<br>
 http://404.myftp.biz/<br>
 http://9.168.l5.ca/<br>
