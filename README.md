@@ -1,7 +1,7 @@
 # 真相部落  有圖文 有音頻 有視頻 有真相<br>
 # 當前有效網址：<br>
 http://9.593.rainbowed.tw/<br>
-http://hs3.26.is-a-designer.com/<br>
+http://hs3.86.is-a-hard-worker.com/<br>
 http://105.liderler.com/<br>
 http://9.91.is-very-nice.org/<br>
 
