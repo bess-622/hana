@@ -2,10 +2,10 @@
 <tr>
 
 <td>
-	<H1><a href="http://01.is-very-good.org/zx/">真相部落</a></H1>
+	<H1><a href="http://52.is-a-designer.com/zx/">真相部落</a></H1>
 </td>
 <td>
-	<H4><a href="http://01.is-very-good.org/zx/">有圖文 有音頻 有視頻 有真相</a></H4>
+	<H4><a href="http://52.is-a-designer.com/zx/">有圖文 有音頻 有視頻 有真相</a></H4>
 </td>
 </tr>
 
