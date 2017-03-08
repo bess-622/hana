@@ -10,6 +10,9 @@
 </tr>
 
 </table>
+
+<div ><a href="http://785.iaecgroup.com/zx/bngcd/"><img src="http://785.iaecgroup.com/zx/bngcd/gcdbnzxTK.jpg" width="730"  border="0" alt="共产党百年真相特刊"></a></div>
+
 <table>
 <tr>
 	<td><a href="http://785.iaecgroup.com/xtr/107/"><img  src ="http://785.iaecgroup.com/pic/2017/02/107.jpg" width="155px" height="130px"></a></td>
@@ -111,7 +114,7 @@
 						</A></td>
 </tr>
 </table>
- <div ><img src="http://785.iaecgroup.com/zx/bngcd/gcdbnzxTK.jpg" width="730"  border="0" alt="共产党百年真相特刊"></div>
+
 
 
 
