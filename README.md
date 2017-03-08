@@ -11,7 +11,7 @@
 
 </table>
 
-<div ><a href="http://785.iaecgroup.com/zx/bngcd/"><img src="http://785.iaecgroup.com/zx/bngcd/gcdbnzxTK.jpg" width="730"  border="0" alt="共产党百年真相特刊"></a></div>
+<div ><a href="http://785.iaecgroup.com/zx/bngcd/"><img src="http://785.iaecgroup.com/zx/bngcd/gcdbnzx.jpg" width="730"  border="0" alt="共产党百年真相特刊"></a></div>
 
 <table>
 <tr>
