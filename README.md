@@ -5,7 +5,7 @@
 	<H1><a href="http://68.dyndns-wiki.com/zx/">真相部落</a></H1>
 </td>
 <td>
-	<H4><a href="http://68.dyndns-wiki.com1/zx/">有图文 有音频 有视频 有真相</a></H4>
+	<H4><a href="http://68.dyndns-wiki.com/zx/">有图文 有音频 有视频 有真相</a></H4>
 </td>
 </tr>
 </table>
