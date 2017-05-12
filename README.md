@@ -1,8 +1,7 @@
 <table><tr><td><img src="513live2.jpg" width="820"></td></tr><tr><td><h1>今年適逢法輪大法洪傳25周年，新唐人特別企劃系列影片，讓觀眾在節目中深入了解法輪大法洪傳25年的「真、善、忍」歷程。<p></p>直播日期：5月12日（週五）<p></p>電視直播：新唐人電視台美東頻道、美西頻道、大陸頻道、歐洲頻道<p></p>美東時間：9:30—12:30<p></p>美西時間；6:30—9:30<p></p>歐洲時間：15:30—18:30<p></p>大陸時間：21:30—00:30<p></p>網絡直播：<p></p><p></p>新唐人電視台直播網站：ntdtv.com/liveshow<p></p>新唐人電視台YouTube：youtube.com/NTDCHINESE<p></p>新唐人電視台中文臉書：facebook.com/NTDCHINESE<p></p>請大陸朋友請使用翻牆軟件觀賞：<p></p>
 
-自由门专业版<br><br>
-<a href="https://git.io/fgp">https://git.io/fgp</a><br><br>
-自由门安卓版<br><br>
+自由门专业版：<a href="https://git.io/fgp">https://git.io/fgp</a>
+自由门安卓版：
 <a href="https://git.io/fgma">https://git.io/fgma</a><br><br>
 
 
